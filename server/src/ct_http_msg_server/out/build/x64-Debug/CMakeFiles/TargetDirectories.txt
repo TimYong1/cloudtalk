@@ -1,0 +1,3 @@
+D:/Github/cloudtalk/server/src/ct_http_msg_server/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Github/cloudtalk/server/src/ct_http_msg_server/out/build/x64-Debug/CMakeFiles/ct_http_msg_server.dir
+D:/Github/cloudtalk/server/src/ct_http_msg_server/out/build/x64-Debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.log": "cpp",
+        "xlocale": "cpp"
+    }
+}
