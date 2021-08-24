@@ -16,8 +16,8 @@ target_include_directories(
         base PRIVATE
         ${CURL_INCLUDE_DIR}
         ${PROTOBUF_INCLUDE_DIR}
-
 )
+
 target_link_directories(
         base PRIVATE
         ${CURL_LIB_DIR}
